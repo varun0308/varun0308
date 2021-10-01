@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @varun0308
-- 🌱 I’m currently learning Aitificial Intelligence and Machine learning in BMSCE
+- 🌱 I’m currently learning Artificial Intelligence and Machine learning in BMSCE
 - 📫 How to reach me varunsathish038@gmail.com
 
 <!---
