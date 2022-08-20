@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Varun S from Banglore.
+- 👋 Hi, I’m Varun from Banglore.
 - 🌱 I’m currently persuing my BTech in **Artificial Intelligence and Machine learning** in **BMSCE**.
-- When I am bored I like to play Violin or listen to music.
+- 🙃 When I am bored I like to play Violin or listen to music.
 - 📫 How to reach me: varunsathish038@gmail.com
 
 <!---
