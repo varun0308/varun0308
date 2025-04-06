@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Varun from Banglore.
-- 🌱 I’m currently persuing my BTech in **Artificial Intelligence and Machine learning** in **BMSCE**.
+- 🌱 I have completed my BTech in **Artificial Intelligence and Machine learning** in **BMSCE** - 2024 batch.
+- 🏢 VerSe Innovation (Dailyhunt)
 - 🙃 When I am bored I like to play Violin or listen to music.
 - 📫 How to reach me: varunsathish038@gmail.com
 
